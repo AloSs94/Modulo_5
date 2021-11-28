@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": true, //nos ponga los errores quetengamos directamente en la declaracion
+        "module": "es6",
+        "target": "es5",
+        "jsx":"react",
+        "allowJs": true,
+        "moduleResolution": "node"
+    }
+}
